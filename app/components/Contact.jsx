@@ -128,7 +128,7 @@ function Contact() {
             <div className="flex flex-col items-center gap-4 text-sm text-neutral-400">
               <div className="flex flex-row justify-between w-full">
                 <div className="flex items-center gap-2">
-                  <Phone className="size-4 text-emerald-300" /> +880 1518969244
+                  <Phone className="size-4 text-emerald-300" /> +880 1991829917
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail className="size-4 text-emerald-300" />{" "}
@@ -136,8 +136,8 @@ function Contact() {
                 </div>
               </div>
               <div className="hidden md:flex items-center gap-2">
-                <MapPin className="size-4 text-emerald-300" /> Holding No. 306,
-                Shop No. 00, Teghori, Shibganj, Bogura
+                <MapPin className="size-4 text-emerald-300" />
+                Rani Nagar Silmadar, Abadpukur Naogaon - 6590
               </div>
             </div>
             <button
