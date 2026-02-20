@@ -61,7 +61,7 @@ function Footer() {
                 <Phone className="size-4 text-emerald-300" /> +8801991829917
               </li>
               <li className="flex items-center gap-3 hover:translate-x-1 transition-transform">
-                <MapPin className="size-4 text-emerald-300" /> Holding No. 306, Shop No. 00, Teghori,Shibganj,Bogura
+                <MapPin className="size-4 text-emerald-300" /> Rani Nagar Silmadar, Abadpukur Naogaon - 6590
               </li>
             </ul>
             <div className="flex gap-5 mt-6">
