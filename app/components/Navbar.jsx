@@ -75,8 +75,13 @@ export default function Navbar() {
     exit: { opacity: 0, y: 20, transition: { duration: 2 } },
   };
 
-  return (
-    <div className="sticky top-0 z-60">
+	return (
+		<motion.div
+			className="sticky top-0 z-60"
+			initial={{ y: -80, opacity: 0 }}
+			animate={{ y: 0, opacity: 1 }}
+			transition={{ type: "spring", stiffness: 120, damping: 16, mass: 0.8, delay: 0.1 }}
+		>
       <div className="backdrop-blur-md supports-[backdrop-filter]:bg-neutral-950/40 border-b border-emerald-500/20 shadow-[0_0_40px_rgba(57,255,20,0.12)] m-6 rounded-2xl ">
         <header>
           <div className="mx-auto max-w-7xl px-4 py-4">
@@ -94,9 +99,9 @@ export default function Navbar() {
                 </div>
                 <span className="font-semibold tracking-wide text-neutral-100 text-2xl">
                   <span className="animate-pulse-slow bg-gradient-to-r from-emerald-300 via-emerald-400 to-emerald-200 bg-clip-text text-transparent [text-shadow:_0_0_20px_rgba(57,255,20,0.75)]">
-                    MTBD
+                    MEGLAH
                   </span>{" "}
-                  <span className="text-neutral-400">Studio</span>
+                  <span className="text-neutral-400">LTD</span>
                 </span>
               </a>
 
@@ -274,6 +279,6 @@ export default function Navbar() {
           }
         }
       `}</style>
-    </div>
+		</motion.div>
   );
 }

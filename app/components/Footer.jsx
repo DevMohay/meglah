@@ -18,7 +18,7 @@ function Footer() {
           {/* Brand + About */}
           <div>
             <h2 className="text-xl font-bold text-emerald-300 drop-shadow-[0_0_10px_rgba(57,255,20,0.8)]">
-              MTBD <span className="text-neutral-400">Studio LTD.</span>
+              MEGLAH <span className="text-neutral-400">LTD.</span>
             </h2>
             <p className="mt-4 text-sm leading-relaxed text-neutral-400">
               We craft futuristic digital experiences with cutting-edge tech,
@@ -58,10 +58,10 @@ function Footer() {
                 mtbdstudio@gmail.com
               </li>
               <li className="flex items-center gap-3 hover:translate-x-1 transition-transform">
-                <Phone className="size-4 text-emerald-300" /> +8801518969244
+                <Phone className="size-4 text-emerald-300" /> +8801991829917
               </li>
               <li className="flex items-center gap-3 hover:translate-x-1 transition-transform">
-                <MapPin className="size-4 text-emerald-300" /> Holding No. 306, Shop No. 00, Teghori,Shibganj,Bogura
+                <MapPin className="size-4 text-emerald-300" /> Rani Nagar Silmadar, Abadpukur Naogaon - 6590
               </li>
             </ul>
             <div className="flex gap-5 mt-6">
@@ -93,7 +93,7 @@ function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-emerald-400/20 text-center py-4 text-sm text-neutral-500">
-          © {new Date().getFullYear()} MTBD Studio. All Rights Reserved.
+          © {new Date().getFullYear()} MEGLAH LTD. All Rights Reserved.
         </div>
       </div>
     </footer>
