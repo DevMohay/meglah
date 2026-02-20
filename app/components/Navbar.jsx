@@ -94,9 +94,9 @@ export default function Navbar() {
                 </div>
                 <span className="font-semibold tracking-wide text-neutral-100 text-2xl">
                   <span className="animate-pulse-slow bg-gradient-to-r from-emerald-300 via-emerald-400 to-emerald-200 bg-clip-text text-transparent [text-shadow:_0_0_20px_rgba(57,255,20,0.75)]">
-                    MTBD
+                    MEGLAH
                   </span>{" "}
-                  <span className="text-neutral-400">Studio</span>
+                  <span className="text-neutral-400">LTD</span>
                 </span>
               </a>
 
