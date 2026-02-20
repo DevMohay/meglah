@@ -18,7 +18,7 @@ function Footer() {
           {/* Brand + About */}
           <div>
             <h2 className="text-xl font-bold text-emerald-300 drop-shadow-[0_0_10px_rgba(57,255,20,0.8)]">
-              MEGLAH <span className="text-neutral-400">LTD.</span>
+              MTBD <span className="text-neutral-400">Studio LTD.</span>
             </h2>
             <p className="mt-4 text-sm leading-relaxed text-neutral-400">
               We craft futuristic digital experiences with cutting-edge tech,
@@ -93,7 +93,7 @@ function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-emerald-400/20 text-center py-4 text-sm text-neutral-500">
-          © {new Date().getFullYear()} MEGLAH LTD. All Rights Reserved.
+          © {new Date().getFullYear()} MTBD Studio. All Rights Reserved.
         </div>
       </div>
     </footer>

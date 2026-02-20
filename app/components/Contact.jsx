@@ -136,7 +136,8 @@ function Contact() {
                 </div>
               </div>
               <div className="hidden md:flex items-center gap-2">
-                <MapPin className="size-4 text-emerald-300" /> Rani Nagar Silmadar, Abadpukur Naogaon - 6590
+                <MapPin className="size-4 text-emerald-300" /> Holding No. 306,
+                Shop No. 00, Teghori, Shibganj, Bogura
               </div>
             </div>
             <button
