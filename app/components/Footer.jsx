@@ -58,7 +58,7 @@ function Footer() {
                 mtbdstudio@gmail.com
               </li>
               <li className="flex items-center gap-3 hover:translate-x-1 transition-transform">
-                <Phone className="size-4 text-emerald-300" /> +8801518969244
+                <Phone className="size-4 text-emerald-300" /> +8801991829917
               </li>
               <li className="flex items-center gap-3 hover:translate-x-1 transition-transform">
                 <MapPin className="size-4 text-emerald-300" /> Holding No. 306, Shop No. 00, Teghori,Shibganj,Bogura
