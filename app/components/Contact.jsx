@@ -132,7 +132,7 @@ function Contact() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail className="size-4 text-emerald-300" />{" "}
-                  mtbdstudio@gmail.com
+                  mdshakilkhank71@gmail.com
                 </div>
               </div>
               <div className="hidden md:flex items-center gap-2">

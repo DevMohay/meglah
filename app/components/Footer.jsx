@@ -55,7 +55,7 @@ function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-center gap-3 hover:translate-x-1 transition-transform">
                 <Mail className="size-4 text-emerald-300" />{" "}
-                mtbdstudio@gmail.com
+                mdshakilkhank71@gmail.com
               </li>
               <li className="flex items-center gap-3 hover:translate-x-1 transition-transform">
                 <Phone className="size-4 text-emerald-300" /> +8801991829917
